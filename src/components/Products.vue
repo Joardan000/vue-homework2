@@ -4,13 +4,13 @@
       <div class="mt-[137px]">
         <p class="text-[44.2px] font-[600] text-[#150101] text-center">Our Product</p>
         <div>
-          <ul class="flex mt-[64px] items-center justify-center font-[500] text-[18px] roboto text-[#000000] opacity-60 flex-wrap gap-[40px]">
-            <li><p>ICE CREAM</p></li>
-            <li><p>CAYENNE CHOCOLATE</p></li>
-            <li><p>CAKE BATTER</p></li>
-            <li><p>CANDY CANE</p></li>
-            <li><p>PLATTERS</p></li>
-            <li><p>DESSERT</p></li>
+          <ul class="flex mt-[64px] items-center justify-center font-[500] text-[18px] roboto text-[#000000] flex-wrap gap-[40px]">
+            <li><p class="opacity-60 hover:cursor-pointer hover:opacity-[100%] text-black">ICE CREAM</p></li>
+            <li><p class="opacity-60 hover:cursor-pointer hover:opacity-[100%] text-black">CAYENNE CHOCOLATE</p></li>
+            <li><p class="opacity-60 hover:cursor-pointer hover:opacity-[100%] text-black">CAKE BATTER</p></li>
+            <li><p class="opacity-60 hover:cursor-pointer hover:opacity-[100%] text-black">CANDY CANE</p></li>
+            <li><p class="opacity-60 hover:cursor-pointer hover:opacity-[100%] text-black">PLATTERS</p></li>
+            <li><p class="opacity-60 hover:cursor-pointer hover:opacity-[100%] text-black">DESSERT</p></li>
           </ul>
         </div>
 
