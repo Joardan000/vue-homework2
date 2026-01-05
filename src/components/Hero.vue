@@ -11,7 +11,7 @@
       </div>
       <div class="relative w-[852px] ml-[15px]">
         <img class="absolute z-10 w-[597px] h-[597px]" src="../assets/ice-cream.png" alt="ice-cream">
-        <img class="absolute z-20 top-[155px] rotate-[4.5deg] left-[-125px] w-[852px] h-[548px] rotate-[deg]" src="../assets/milk.png" alt="milk">
+        <img class="absolute z-20 top-[155px] rotate-[4deg] left-[-125px] w-[852px] h-[548px] rotate-[deg]" src="../assets/milk.png" alt="milk">
         <img class="absolute z-0 top-[277px] w-[365px] h-[353px] left-[116px]" src="../assets/round.png" alt="round-image">
       </div>
     </div>
